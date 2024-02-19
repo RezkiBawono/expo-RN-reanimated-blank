@@ -1,1 +1,1 @@
-This is a blank template for expo-react native with typescript and web support
+This is a test template for reanimated
